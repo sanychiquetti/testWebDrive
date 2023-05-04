@@ -26,5 +26,4 @@ public class SignTest {
         assertEquals("Hi, Julio", saudacao); // validando o texto da variável.
         navegador.quit();
     }
-
 }
